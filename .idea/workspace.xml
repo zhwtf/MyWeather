@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97c834d0-e2ea-4bb9-ae76-f9aaa31b253e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/S02.01-Exercise-Networking/build.gradle" afterPath="$PROJECT_DIR$/S02.01-Exercise-Networking/build.gradle" />
-    </list>
+    <list default="true" id="97c834d0-e2ea-4bb9-ae76-f9aaa31b253e" name="Default" comment="" />
     <ignored path="ud851-Sunshine.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -443,7 +441,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="928" y="30" width="969" height="1052" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
