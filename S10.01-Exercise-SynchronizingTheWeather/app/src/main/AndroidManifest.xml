@@ -60,5 +60,9 @@
         
         <!-- TODO (8) Register SunshineSyncIntentService in the manifest -->
 
+        <service android:name=".sync.SunshineSyncIntentService"
+                 android:exported="false"/>
+
+
     </application>
 </manifest>
